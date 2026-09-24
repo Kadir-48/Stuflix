@@ -1,0 +1,12 @@
+{
+  "name": "Stuflix",
+  "description": "Stuflix - Private password-protected study rooms for 10th-grade students with real-time messaging, collaborative notes, file storage, and WebRTC video calls.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

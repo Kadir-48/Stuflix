@@ -1,0 +1,378 @@
+{
+  "rooms": [
+    [
+      "room_board_math_01",
+      {
+        "id": "room_board_math_01",
+        "name": "10th Math Board Exam Prep",
+        "password": "study10",
+        "ownerName": "Arjun Sharma",
+        "isLocked": false,
+        "createdAt": 1790078488242
+      }
+    ],
+    [
+      "room_trgxjwr",
+      {
+        "id": "room_trgxjwr",
+        "name": "Calculus Room",
+        "password": "calc2026",
+        "ownerName": "Newton",
+        "isLocked": false,
+        "createdAt": 1790164904214
+      }
+    ],
+    [
+      "room_c88x0en",
+      {
+        "id": "room_c88x0en",
+        "name": "102",
+        "password": "123",
+        "ownerName": "Kadir",
+        "isLocked": false,
+        "createdAt": 1790164972588
+      }
+    ],
+    [
+      "room_z8cptr2",
+      {
+        "id": "room_z8cptr2",
+        "name": "102",
+        "password": "1234",
+        "ownerName": "Kadir",
+        "isLocked": false,
+        "createdAt": 1790165802447
+      }
+    ],
+    [
+      "room_j167br5",
+      {
+        "id": "room_j167br5",
+        "name": "Physics Mechanics Group",
+        "password": "physics2026",
+        "ownerName": "Priya Patel",
+        "isLocked": false,
+        "createdAt": 1790166154442,
+        "avatarColor": "purple",
+        "avatarIcon": "atom"
+      }
+    ]
+  ],
+  "roomMessages": [
+    [
+      "room_board_math_01",
+      [
+        {
+          "id": "msg_init_1",
+          "authorName": "Arjun Sharma",
+          "content": "Welcome everyone to the 10th Math Board Exam study room! Let us review quadratic formulas and solved papers.",
+          "timestamp": "10:15 AM",
+          "reactions": {
+            "🎯": [
+              "Arjun Sharma"
+            ],
+            "👍": [
+              "Arjun Sharma"
+            ]
+          },
+          "isPinned": true
+        },
+        {
+          "id": "msg_init_2",
+          "authorName": "Priya Patel",
+          "content": "Uploaded the 2024 sample paper and notes in the Files tab for everyone to download.",
+          "timestamp": "10:20 AM",
+          "reactions": {
+            "❤️": [
+              "Arjun Sharma"
+            ]
+          },
+          "isPinned": false
+        },
+        {
+          "id": "msg_1790245802305_wxjg",
+          "authorName": "TestStudent",
+          "content": "Test real-time message",
+          "timestamp": "10:30 AM",
+          "reactions": {},
+          "isPinned": false
+        },
+        {
+          "id": "msg_1790245833871_jbie",
+          "authorName": "Rahul",
+          "content": "Solving question 4 from chapter 5",
+          "timestamp": "10:30 AM",
+          "reactions": {},
+          "isPinned": false,
+          "edited": false
+        }
+      ]
+    ],
+    [
+      "room_trgxjwr",
+      [
+        {
+          "id": "msg_1790164904214",
+          "authorName": "System",
+          "content": "Room \"Calculus Room\" was created by Newton. Welcome!",
+          "timestamp": "12:01 PM",
+          "reactions": {},
+          "isPinned": false
+        }
+      ]
+    ],
+    [
+      "room_c88x0en",
+      [
+        {
+          "id": "msg_1790164972588",
+          "authorName": "System",
+          "content": "Room \"102\" was created by Kadir. Welcome!",
+          "timestamp": "12:02 PM",
+          "reactions": {},
+          "isPinned": false
+        }
+      ]
+    ],
+    [
+      "room_z8cptr2",
+      [
+        {
+          "id": "msg_1790165802447",
+          "authorName": "System",
+          "content": "Room \"102\" was created by Kadir. Welcome!",
+          "timestamp": "12:16 PM",
+          "reactions": {},
+          "isPinned": false
+        }
+      ]
+    ],
+    [
+      "room_j167br5",
+      [
+        {
+          "id": "msg_1790166154442",
+          "authorName": "System",
+          "content": "Room \"Physics Mechanics Group\" was created by Priya Patel. Welcome!",
+          "timestamp": "12:22 PM",
+          "reactions": {},
+          "isPinned": false
+        }
+      ]
+    ]
+  ],
+  "roomNotes": [
+    [
+      "room_board_math_01",
+      [
+        {
+          "id": "note_init_1",
+          "title": "Quadratic Equations & Roots Summary",
+          "content": "# Quadratic Equations Formulas & Tips\n\n1. Standard Form:\n   $$ax^2 + bx + c = 0$$\n\n2. Quadratic Formula:\n   $$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$$\n\n3. Nature of Roots (Discriminant $D = b^2 - 4ac$):\n   - $D > 0$: Two distinct real roots\n   - $D = 0$: Two equal real roots (repeated)\n   - $D < 0$: No real roots\n\n4. Relation between roots:\n   - Sum of roots: $\\alpha + \\beta = -b/a$\n   - Product of roots: $\\alpha\\beta = c/a$\n\n*Feel free to add practice questions below!*",
+          "lastEditedBy": "Arjun Sharma",
+          "updatedAt": "10:25 AM"
+        }
+      ]
+    ],
+    [
+      "room_trgxjwr",
+      [
+        {
+          "id": "note_1790164904220",
+          "title": "Study Notes for Calculus Room",
+          "content": "# Calculus Room\n\nStart typing collaborative study notes here...",
+          "lastEditedBy": "Newton",
+          "updatedAt": "Just now"
+        }
+      ]
+    ],
+    [
+      "room_c88x0en",
+      [
+        {
+          "id": "note_1790164972595",
+          "title": "Study Notes for 102",
+          "content": "# 102\n\nStart typing collaborative study notes here...",
+          "lastEditedBy": "Kadir",
+          "updatedAt": "Just now"
+        }
+      ]
+    ],
+    [
+      "room_z8cptr2",
+      [
+        {
+          "id": "note_1790165802447",
+          "title": "Study Notes for 102",
+          "content": "# 102\n\nStart typing collaborative study notes here...",
+          "lastEditedBy": "Kadir",
+          "updatedAt": "Just now"
+        }
+      ]
+    ],
+    [
+      "room_j167br5",
+      [
+        {
+          "id": "note_1790166154449",
+          "title": "Study Notes for Physics Mechanics Group",
+          "content": "# Physics Mechanics Group\n\nStart typing collaborative study notes here...",
+          "lastEditedBy": "Priya Patel",
+          "updatedAt": "Just now"
+        }
+      ]
+    ]
+  ],
+  "roomFiles": [
+    [
+      "room_board_math_01",
+      [
+        {
+          "id": "file_init_1",
+          "name": "Mathematics_0607_Sample_Paper.pdf",
+          "type": "application/pdf",
+          "size": "1.2 MB",
+          "dataUrl": "data:application/pdf;base64,JVBERi0xLjQKJeLjz9MKMSAwIG9iajw8L1R5cGUvQ2F0YWxvZy9QYWdlcyAyIDAgUj4+ZW5kb2JqCg==",
+          "uploadedBy": "Priya Patel",
+          "uploadedAt": "10:20 AM"
+        }
+      ]
+    ]
+  ],
+  "roomTimetables": [
+    [
+      "room_board_math_01",
+      [
+        {
+          "id": "tt_init_1",
+          "subject": "Mathematics 0607 (Paper 2)",
+          "date": "2026-09-24",
+          "startTime": "10:00 AM",
+          "endTime": "01:00 PM",
+          "createdBy": "Arjun Sharma"
+        },
+        {
+          "id": "tt_init_2",
+          "subject": "Physics 0625 (Theory)",
+          "date": "2026-09-28",
+          "startTime": "11:15 AM",
+          "endTime": "01:15 PM",
+          "createdBy": "Priya Patel"
+        }
+      ]
+    ]
+  ],
+  "roomWhiteboards": [],
+  "roomTasks": [
+    [
+      "room_board_math_01",
+      [
+        {
+          "id": "task_init_1",
+          "title": "Solve 2023 Paper 2 Section B",
+          "description": "Work through questions 8 to 14 focusing on quadratic equation word problems.",
+          "status": "todo",
+          "priority": "high",
+          "dueDate": "2026-09-24",
+          "assignee": "Arjun Sharma",
+          "createdBy": "Arjun Sharma",
+          "tags": [
+            "Paper2",
+            "Algebra"
+          ],
+          "createdAt": 1790146888243
+        },
+        {
+          "id": "task_init_2",
+          "title": "Review Trigonometry Identities & Unit Circle",
+          "description": "Prepare quick flashcard summary for sin, cos, and tan angle values.",
+          "status": "in_progress",
+          "priority": "medium",
+          "dueDate": "2026-09-24",
+          "assignee": "Priya Patel",
+          "createdBy": "Priya Patel",
+          "tags": [
+            "Trigonometry",
+            "Formulas"
+          ],
+          "createdAt": 1790154088243
+        },
+        {
+          "id": "task_init_3",
+          "title": "Download & print 2024 sample question paper",
+          "description": "Saved into room Files tab for all members to access.",
+          "status": "completed",
+          "priority": "low",
+          "assignee": "Priya Patel",
+          "createdBy": "Priya Patel",
+          "tags": [
+            "Resources"
+          ],
+          "createdAt": 1790157688243
+        }
+      ]
+    ]
+  ],
+  "roomMembers": [
+    [
+      "room_board_math_01",
+      []
+    ]
+  ],
+  "roomPolls": [
+    [
+      "room_board_math_01",
+      [
+        {
+          "id": "poll_exam_physics_01",
+          "roomId": "room_board_math_01",
+          "authorName": "Arjun Sharma",
+          "question": "How was today's Physics exam?",
+          "options": [
+            {
+              "id": "opt_1",
+              "text": "🟢 Easy",
+              "votes": [
+                "Rohan Das"
+              ]
+            },
+            {
+              "id": "opt_2",
+              "text": "🟡 Moderate",
+              "votes": [
+                "Aarav Gupta",
+                "Sneha Rao",
+                "Pooja Verma"
+              ]
+            },
+            {
+              "id": "opt_3",
+              "text": "🟠 Hard",
+              "votes": [
+                "Arjun Sharma",
+                "Priya Patel",
+                "Vikram Malhotra",
+                "Ananya Sen",
+                "Kavita Nair"
+              ]
+            },
+            {
+              "id": "opt_4",
+              "text": "🔴 Very Hard",
+              "votes": [
+                "Dev Patel",
+                "Simran Kaur"
+              ]
+            }
+          ],
+          "allowMultiple": false,
+          "isAnonymous": false,
+          "createdAt": 1790238629864
+        }
+      ]
+    ]
+  ],
+  "examPapers": [],
+  "studentAnalytics": [],
+  "savedAt": 1790245833878
+}
